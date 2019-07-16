@@ -1,0 +1,2 @@
+Welcome to vi editor 
+it is simple editor for writing text
