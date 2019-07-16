@@ -1,2 +1,6 @@
 Welcome to Git HUb
 this is simple text file
+Welcome to Git HUb
+this is simple text file
+Welcome to Git HUb
+this is simple text file
